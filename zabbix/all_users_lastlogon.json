@@ -1,0 +1,546 @@
+[
+    {
+        "username":  "Administrador",
+        "lastLogon":  "2026-04-15 16:19:49"
+    },
+    {
+        "username":  "Convidado",
+        "lastLogon":  "1970-01-01"
+    },
+    {
+        "username":  "krbtgt",
+        "lastLogon":  "1970-01-01"
+    },
+    {
+        "username":  "lucas.gomes",
+        "lastLogon":  "2019-12-20 11:41:37"
+    },
+    {
+        "username":  "alexandre.gomes",
+        "lastLogon":  "2026-05-29 08:21:59"
+    },
+    {
+        "username":  "danillo.soares",
+        "lastLogon":  "2021-01-11 08:41:47"
+    },
+    {
+        "username":  "maikon.fernandes",
+        "lastLogon":  "2026-05-25 18:07:23"
+    },
+    {
+        "username":  "renata.cristina",
+        "lastLogon":  "2020-05-23 08:50:37"
+    },
+    {
+        "username":  "felipe.camargo",
+        "lastLogon":  "2016-10-28 14:02:29"
+    },
+    {
+        "username":  "weskley.miranda",
+        "lastLogon":  "2017-03-10 08:44:16"
+    },
+    {
+        "username":  "lazaro.aparecido",
+        "lastLogon":  "2026-05-29 07:32:18"
+    },
+    {
+        "username":  "assistencia.01",
+        "lastLogon":  "2026-05-29 09:13:32"
+    },
+    {
+        "username":  "valquiria.galvao",
+        "lastLogon":  "2026-05-28 16:30:35"
+    },
+    {
+        "username":  "donizete.alves",
+        "lastLogon":  "2026-05-28 12:58:39"
+    },
+    {
+        "username":  "rodrigo.alves",
+        "lastLogon":  "2026-05-29 14:12:38"
+    },
+    {
+        "username":  "adao.geraldo",
+        "lastLogon":  "2026-05-29 07:59:02"
+    },
+    {
+        "username":  "fabio.pereira",
+        "lastLogon":  "2017-05-24 13:11:15"
+    },
+    {
+        "username":  "david.yuri",
+        "lastLogon":  "2022-09-12 11:35:10"
+    },
+    {
+        "username":  "monica.aparecida",
+        "lastLogon":  "2022-01-05 10:27:16"
+    },
+    {
+        "username":  "valdinete.galvao",
+        "lastLogon":  "2026-05-29 13:17:03"
+    },
+    {
+        "username":  "valerio.oliveira",
+        "lastLogon":  "2017-05-29 10:37:06"
+    },
+    {
+        "username":  "nilcelia.santos",
+        "lastLogon":  "2017-05-29 16:48:22"
+    },
+    {
+        "username":  "laboratorio2",
+        "lastLogon":  "2017-05-29 10:25:31"
+    },
+    {
+        "username":  "debora.marques",
+        "lastLogon":  "2020-09-10 15:45:14"
+    },
+    {
+        "username":  "hugo.alexandre",
+        "lastLogon":  "2021-08-10 13:21:09"
+    },
+    {
+        "username":  "edmo.martins",
+        "lastLogon":  "2017-11-01 12:47:28"
+    },
+    {
+        "username":  "caixa",
+        "lastLogon":  "2026-05-29 08:01:07"
+    },
+    {
+        "username":  "scanner",
+        "lastLogon":  "1970-01-01"
+    },
+    {
+        "username":  "raniery.germano",
+        "lastLogon":  "2026-05-29 09:09:24"
+    },
+    {
+        "username":  "root",
+        "lastLogon":  "2016-10-04 17:17:15"
+    },
+    {
+        "username":  "shap",
+        "lastLogon":  "2020-12-22 08:03:13"
+    },
+    {
+        "username":  "gkbackup",
+        "lastLogon":  "2026-05-29 11:00:03"
+    },
+    {
+        "username":  "renata.pereira",
+        "lastLogon":  "2026-01-06 23:35:40"
+    },
+    {
+        "username":  "shapeness",
+        "lastLogon":  "2021-02-23 18:27:41"
+    },
+    {
+        "username":  "hudson.germano",
+        "lastLogon":  "2026-04-15 14:35:48"
+    },
+    {
+        "username":  "anselmo.gomes",
+        "lastLogon":  "2019-07-09 10:15:01"
+    },
+    {
+        "username":  "cleiton.antunes",
+        "lastLogon":  "2018-07-06 08:36:16"
+    },
+    {
+        "username":  "valens.consultoria",
+        "lastLogon":  "1970-01-01"
+    },
+    {
+        "username":  "guilherme.guimaraes",
+        "lastLogon":  "2024-06-17 07:43:18"
+    },
+    {
+        "username":  "temp.admin",
+        "lastLogon":  "2022-01-06 11:39:53"
+    },
+    {
+        "username":  "joao.neto",
+        "lastLogon":  "2022-06-09 07:16:17"
+    },
+    {
+        "username":  "fernando.tulio",
+        "lastLogon":  "2021-01-14 13:14:38"
+    },
+    {
+        "username":  "juscelio.bispo",
+        "lastLogon":  "2020-12-16 09:28:10"
+    },
+    {
+        "username":  "pedro.oliveira",
+        "lastLogon":  "2020-03-04 08:04:02"
+    },
+    {
+        "username":  "andre.busato",
+        "lastLogon":  "2019-01-03 10:51:09"
+    },
+    {
+        "username":  "getulio.dantas",
+        "lastLogon":  "2020-06-05 09:25:34"
+    },
+    {
+        "username":  "walisson.arantes",
+        "lastLogon":  "2019-05-13 08:55:33"
+    },
+    {
+        "username":  "sistema.teste",
+        "lastLogon":  "1970-01-01"
+    },
+    {
+        "username":  "marcus.vinicius",
+        "lastLogon":  "2020-09-10 17:18:24"
+    },
+    {
+        "username":  "celio.chaves",
+        "lastLogon":  "1970-01-01"
+    },
+    {
+        "username":  "ana.carolinne",
+        "lastLogon":  "2020-09-17 08:02:42"
+    },
+    {
+        "username":  "thiago.ferreira",
+        "lastLogon":  "2026-05-19 15:59:09"
+    },
+    {
+        "username":  "wesker.felipe",
+        "lastLogon":  "2020-03-09 09:43:11"
+    },
+    {
+        "username":  "alexander.lucas",
+        "lastLogon":  "2020-04-13 08:24:10"
+    },
+    {
+        "username":  "joao.santos",
+        "lastLogon":  "2021-05-17 09:31:30"
+    },
+    {
+        "username":  "liliane.trindade",
+        "lastLogon":  "2026-05-29 13:42:23"
+    },
+    {
+        "username":  "edson.barros",
+        "lastLogon":  "2020-09-09 14:33:28"
+    },
+    {
+        "username":  "aparicio.junior",
+        "lastLogon":  "2020-09-11 11:12:08"
+    },
+    {
+        "username":  "tais.fiama",
+        "lastLogon":  "2023-12-05 16:29:49"
+    },
+    {
+        "username":  "impressora",
+        "lastLogon":  "1970-01-01"
+    },
+    {
+        "username":  "geovanio.silva",
+        "lastLogon":  "2021-02-24 08:00:42"
+    },
+    {
+        "username":  "amanada.cristina",
+        "lastLogon":  "2020-10-26 11:01:20"
+    },
+    {
+        "username":  "rafael.elias",
+        "lastLogon":  "2026-05-29 14:11:42"
+    },
+    {
+        "username":  "cleiciane.menezes",
+        "lastLogon":  "2021-06-23 10:20:02"
+    },
+    {
+        "username":  "___VMware_Conv_SA___",
+        "lastLogon":  "1970-01-01"
+    },
+    {
+        "username":  "itayan.cruz",
+        "lastLogon":  "2023-01-26 08:38:31"
+    },
+    {
+        "username":  "daniel.marins",
+        "lastLogon":  "2023-07-26 08:23:18"
+    },
+    {
+        "username":  "ngfw",
+        "lastLogon":  "1970-01-01"
+    },
+    {
+        "username":  "sidnei.mastersys",
+        "lastLogon":  "2026-05-29 07:37:20"
+    },
+    {
+        "username":  "gabriel.mastersys",
+        "lastLogon":  "1970-01-01"
+    },
+    {
+        "username":  "arlindo.mastersys",
+        "lastLogon":  "2024-10-24 13:08:00"
+    },
+    {
+        "username":  "thalles.mastersys",
+        "lastLogon":  "2026-04-14 08:06:28"
+    },
+    {
+        "username":  "giovanni.mastersys",
+        "lastLogon":  "1970-01-01"
+    },
+    {
+        "username":  "victor.acrani",
+        "lastLogon":  "2022-03-30 13:10:41"
+    },
+    {
+        "username":  "henrique.rodrigues",
+        "lastLogon":  "2021-01-27 08:21:06"
+    },
+    {
+        "username":  "natalia.adriana",
+        "lastLogon":  "2021-02-09 08:07:10"
+    },
+    {
+        "username":  "michelly.moreira",
+        "lastLogon":  "2026-05-29 13:03:35"
+    },
+    {
+        "username":  "nathalia.martins",
+        "lastLogon":  "2022-11-07 08:29:35"
+    },
+    {
+        "username":  "bruno.gomes",
+        "lastLogon":  "1970-01-01"
+    },
+    {
+        "username":  "bruno.oliveira",
+        "lastLogon":  "2021-07-02 08:05:16"
+    },
+    {
+        "username":  "treinamento",
+        "lastLogon":  "2024-12-02 09:05:24"
+    },
+    {
+        "username":  "keila.righi",
+        "lastLogon":  "2026-05-29 14:08:21"
+    },
+    {
+        "username":  "anderson.faria",
+        "lastLogon":  "1970-01-01"
+    },
+    {
+        "username":  "ewerton.gualberto",
+        "lastLogon":  "2022-02-10 09:40:54"
+    },
+    {
+        "username":  "matheus.tosta",
+        "lastLogon":  "2022-02-14 16:22:06"
+    },
+    {
+        "username":  "glaicon.gomes",
+        "lastLogon":  "2021-12-17 12:57:49"
+    },
+    {
+        "username":  "livino.neto",
+        "lastLogon":  "2022-05-05 14:59:18"
+    },
+    {
+        "username":  "dep.pessoal",
+        "lastLogon":  "2023-10-24 16:32:52"
+    },
+    {
+        "username":  "mario.medeiros",
+        "lastLogon":  "2022-02-09 10:15:31"
+    },
+    {
+        "username":  "gilmar.oliveira",
+        "lastLogon":  "2026-05-29 14:12:43"
+    },
+    {
+        "username":  "suellen.freitas",
+        "lastLogon":  "2026-05-28 23:30:01"
+    },
+    {
+        "username":  "lucas.fonseca",
+        "lastLogon":  "2023-07-20 07:57:09"
+    },
+    {
+        "username":  "geordany.mendes",
+        "lastLogon":  "2025-07-21 08:50:51"
+    },
+    {
+        "username":  "junio.lira",
+        "lastLogon":  "2022-04-12 08:44:39"
+    },
+    {
+        "username":  "fernando.silverio",
+        "lastLogon":  "2022-07-01 10:51:47"
+    },
+    {
+        "username":  "erika.barbosa",
+        "lastLogon":  "2022-06-07 12:52:41"
+    },
+    {
+        "username":  "maria.fernanda",
+        "lastLogon":  "2026-05-29 12:33:40"
+    },
+    {
+        "username":  "gabriel.martins",
+        "lastLogon":  "2026-05-29 14:11:04"
+    },
+    {
+        "username":  "gustavo.machado",
+        "lastLogon":  "2025-11-10 09:35:59"
+    },
+    {
+        "username":  "jaider.julio",
+        "lastLogon":  "2023-01-23 08:40:14"
+    },
+    {
+        "username":  "hugo.leonardo",
+        "lastLogon":  "2023-01-16 16:19:03"
+    },
+    {
+        "username":  "debora.pena",
+        "lastLogon":  "2023-03-22 07:21:31"
+    },
+    {
+        "username":  "daniel.alves",
+        "lastLogon":  "2026-05-26 13:52:26"
+    },
+    {
+        "username":  "remote.monitoring",
+        "lastLogon":  "1970-01-01"
+    },
+    {
+        "username":  "backupvm",
+        "lastLogon":  "2026-05-29 14:26:02"
+    },
+    {
+        "username":  "ana.cecilia",
+        "lastLogon":  "2023-07-05 09:52:06"
+    },
+    {
+        "username":  "ronnie.duarte",
+        "lastLogon":  "2026-05-29 07:52:17"
+    },
+    {
+        "username":  "ederson.alves",
+        "lastLogon":  "2026-05-26 16:59:11"
+    },
+    {
+        "username":  "cristian.jonny",
+        "lastLogon":  "2023-12-21 15:42:42"
+    },
+    {
+        "username":  "halyson.campos",
+        "lastLogon":  "2025-07-14 08:54:43"
+    },
+    {
+        "username":  "vanessa.borges",
+        "lastLogon":  "2023-10-27 11:22:07"
+    },
+    {
+        "username":  "weder.menezes",
+        "lastLogon":  "2026-01-02 09:18:34"
+    },
+    {
+        "username":  "luiz.antonio",
+        "lastLogon":  "2023-08-01 08:50:11"
+    },
+    {
+        "username":  "cleir.junior",
+        "lastLogon":  "1970-01-01"
+    },
+    {
+        "username":  "mariana.garcia",
+        "lastLogon":  "2025-01-14 16:38:42"
+    },
+    {
+        "username":  "joao.gabriel",
+        "lastLogon":  "2024-05-31 11:42:11"
+    },
+    {
+        "username":  "matheus.flores",
+        "lastLogon":  "2024-03-04 08:32:44"
+    },
+    {
+        "username":  "daniel.teodoro",
+        "lastLogon":  "2024-09-11 15:11:30"
+    },
+    {
+        "username":  "cleir.braga",
+        "lastLogon":  "2026-05-28 11:25:17"
+    },
+    {
+        "username":  "joao.pedro",
+        "lastLogon":  "2024-05-16 09:55:17"
+    },
+    {
+        "username":  "expedicao.at",
+        "lastLogon":  "2026-05-29 14:25:47"
+    },
+    {
+        "username":  "augusto.rodrigues",
+        "lastLogon":  "2026-03-02 16:55:31"
+    },
+    {
+        "username":  "igor.felix",
+        "lastLogon":  "2025-01-24 10:40:04"
+    },
+    {
+        "username":  "ostec",
+        "lastLogon":  "1970-01-01"
+    },
+    {
+        "username":  "clenilta.goncalves",
+        "lastLogon":  "2025-02-21 07:40:36"
+    },
+    {
+        "username":  "jonathan.henrique",
+        "lastLogon":  "1970-01-01"
+    },
+    {
+        "username":  "albert.chagas",
+        "lastLogon":  "2026-01-05 16:09:14"
+    },
+    {
+        "username":  "dionisio.nery",
+        "lastLogon":  "2025-07-21 12:51:40"
+    },
+    {
+        "username":  "maria.eduarda",
+        "lastLogon":  "2026-03-23 13:11:16"
+    },
+    {
+        "username":  "joao.carlos",
+        "lastLogon":  "2026-01-09 11:01:37"
+    },
+    {
+        "username":  "teste1",
+        "lastLogon":  "2025-07-16 11:26:38"
+    },
+    {
+        "username":  "rodrigo.miranda",
+        "lastLogon":  "2025-11-13 16:22:53"
+    },
+    {
+        "username":  "DCS_SRV-BUDAPESTE",
+        "lastLogon":  "1970-01-01"
+    },
+    {
+        "username":  "marcello.queiroz",
+        "lastLogon":  "2026-05-12 09:04:35"
+    },
+    {
+        "username":  "luiz.gustavo",
+        "lastLogon":  "2026-04-10 17:51:58"
+    },
+    {
+        "username":  "jose.goncalves",
+        "lastLogon":  "2026-04-15 16:20:05"
+    }
+]

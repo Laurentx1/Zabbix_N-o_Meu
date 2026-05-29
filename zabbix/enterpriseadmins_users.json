@@ -1,0 +1,206 @@
+[
+    {
+        "username":  "jose.goncalves",
+        "created":  "2026-04-15 14:37:36"
+    },
+    {
+        "username":  "luiz.gustavo",
+        "created":  "2026-03-26 11:29:16"
+    },
+    {
+        "username":  "marcello.queiroz",
+        "created":  "2026-01-06 09:42:27"
+    },
+    {
+        "username":  "rodrigo.miranda",
+        "created":  "2025-08-25 16:08:51"
+    },
+    {
+        "username":  "dionisio.nery",
+        "created":  "2025-04-04 15:01:22"
+    },
+    {
+        "username":  "jonathan.henrique",
+        "created":  "2025-01-14 16:39:58"
+    },
+    {
+        "username":  "ostec",
+        "created":  "2024-10-10 15:28:23"
+    },
+    {
+        "username":  "igor.felix",
+        "created":  "2024-09-19 09:12:18"
+    },
+    {
+        "username":  "augusto.rodrigues",
+        "created":  "2024-08-28 17:58:20"
+    },
+    {
+        "username":  "matheus.flores",
+        "created":  "2023-11-21 09:21:25"
+    },
+    {
+        "username":  "mariana.garcia",
+        "created":  "2023-08-16 15:44:20"
+    },
+    {
+        "username":  "weder.menezes",
+        "created":  "2023-07-20 16:31:35"
+    },
+    {
+        "username":  "halyson.campos",
+        "created":  "2023-06-29 09:08:46"
+    },
+    {
+        "username":  "backupvm",
+        "created":  "2023-01-19 16:41:59"
+    },
+    {
+        "username":  "remote.monitoring",
+        "created":  "2023-01-04 08:25:23"
+    },
+    {
+        "username":  "daniel.alves",
+        "created":  "2022-11-08 09:56:19"
+    },
+    {
+        "username":  "hugo.leonardo",
+        "created":  "2022-10-28 11:00:28"
+    },
+    {
+        "username":  "jaider.julio",
+        "created":  "2022-09-22 09:12:37"
+    },
+    {
+        "username":  "gustavo.machado",
+        "created":  "2022-09-16 14:50:41"
+    },
+    {
+        "username":  "fernando.silverio",
+        "created":  "2022-05-03 16:09:44"
+    },
+    {
+        "username":  "junio.lira",
+        "created":  "2022-04-12 08:39:21"
+    },
+    {
+        "username":  "geordany.mendes",
+        "created":  "2022-03-23 13:34:14"
+    },
+    {
+        "username":  "suellen.freitas",
+        "created":  "2022-03-02 10:23:23"
+    },
+    {
+        "username":  "mario.medeiros",
+        "created":  "2022-01-10 13:36:22"
+    },
+    {
+        "username":  "livino.neto",
+        "created":  "2021-08-24 10:24:53"
+    },
+    {
+        "username":  "glaicon.gomes",
+        "created":  "2021-08-10 11:40:34"
+    },
+    {
+        "username":  "ewerton.gualberto",
+        "created":  "2021-06-14 14:00:03"
+    },
+    {
+        "username":  "ngfw",
+        "created":  "2021-01-04 15:19:36"
+    },
+    {
+        "username":  "cleiciane.menezes",
+        "created":  "2020-10-28 16:02:53"
+    },
+    {
+        "username":  "aparicio.junior",
+        "created":  "2020-07-08 11:27:29"
+    },
+    {
+        "username":  "joao.santos",
+        "created":  "2020-03-19 10:32:52"
+    },
+    {
+        "username":  "alexander.lucas",
+        "created":  "2020-03-09 09:43:11"
+    },
+    {
+        "username":  "wesker.felipe",
+        "created":  "2020-03-04 15:16:22"
+    },
+    {
+        "username":  "thiago.ferreira",
+        "created":  "2020-02-26 08:40:03"
+    },
+    {
+        "username":  "celio.chaves",
+        "created":  "2019-11-01 15:48:55"
+    },
+    {
+        "username":  "sistema.teste",
+        "created":  "2019-08-12 15:46:01"
+    },
+    {
+        "username":  "getulio.dantas",
+        "created":  "2019-03-23 15:37:13"
+    },
+    {
+        "username":  "andre.busato",
+        "created":  "2018-11-01 13:34:11"
+    },
+    {
+        "username":  "temp.admin",
+        "created":  "2018-03-27 10:03:08"
+    },
+    {
+        "username":  "anselmo.gomes",
+        "created":  "2017-09-25 09:19:40"
+    },
+    {
+        "username":  "hudson.germano",
+        "created":  "2017-04-11 13:25:25"
+    },
+    {
+        "username":  "shapeness",
+        "created":  "2017-03-09 11:03:26"
+    },
+    {
+        "username":  "gkbackup",
+        "created":  "2016-10-10 10:17:22"
+    },
+    {
+        "username":  "shap",
+        "created":  "2016-10-04 17:25:22"
+    },
+    {
+        "username":  "root",
+        "created":  "2016-10-04 16:55:36"
+    },
+    {
+        "username":  "raniery.germano",
+        "created":  "2016-08-22 10:26:08"
+    },
+    {
+        "username":  "edmo.martins",
+        "created":  "2016-08-05 17:20:01"
+    },
+    {
+        "username":  "hugo.alexandre",
+        "created":  "2016-08-05 16:57:53"
+    },
+    {
+        "username":  "rodrigo.alves",
+        "created":  "2016-08-05 15:50:35"
+    },
+    {
+        "username":  "lucas.gomes",
+        "created":  "2016-08-05 15:13:48"
+    },
+    {
+        "username":  "Administrador",
+        "created":  "2016-08-05 13:56:30"
+    }
+]
